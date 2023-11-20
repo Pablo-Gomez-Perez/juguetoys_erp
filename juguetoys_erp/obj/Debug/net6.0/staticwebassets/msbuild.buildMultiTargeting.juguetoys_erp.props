@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\juguetoys_erp.props" />
+</Project>

@@ -1,0 +1,51 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model juguetoys_erp.Models.ViewModels.ClienteViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container-fluid">
+    <div class="row pb-2">
+        <div class="col-md-12">
+            <form class="mt-2" asp-action="Create" asp-controller="PCliente"
+                  data-ajax="true"
+                  data-ajax-method="POST"
+                  data-ajax-failure="failed"
+                  data-ajax-complete="completed">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="IdCliente" value="@ViewBag.IdCliente" />
+                <div id="ajaxresult"></div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="FldNombre" class="form-label"></label>
+                            <input type="text" asp-for="FldNombre" class="form-control" />
+                            <span asp-validation-for="FldNombre"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="FldTelefono" class="form-label"></label>
+                            <input type="text" asp-for="FldTelefono" class="form-control" />
+                            <span asp-validation-for=FldNombre class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <label asp-for="FldDireccion" class="form-label"></label>
+                            <input type="text" asp-for="FldDireccion" class="form-control" />
+                            <span asp-validation-for="FldDireccion"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-2">
+                    <input type="submit" class="btn btn-primary form-control btn-verse-primary" value="Guardar" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

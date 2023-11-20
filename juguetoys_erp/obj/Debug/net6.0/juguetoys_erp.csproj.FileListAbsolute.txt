@@ -1,0 +1,185 @@
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\appsettings.Development.json
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\appsettings.json
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.staticwebassets.runtime.json
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.exe
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.deps.json
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.runtimeconfig.json
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.pdb
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Azure.Core.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Azure.Identity.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Humanizer.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.CodeDom.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Text.Json.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.csproj.AssemblyReference.cache
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.GeneratedMSBuildEditorConfig.editorconfig
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.AssemblyInfoInputs.cache
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.AssemblyInfo.cs
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.csproj.CoreCompileInputs.cache
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.MvcApplicationPartsAssemblyInfo.cache
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.RazorAssemblyInfo.cache
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.RazorAssemblyInfo.cs
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\staticwebassets\msbuild.juguetoys_erp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\staticwebassets\msbuild.build.juguetoys_erp.props
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.juguetoys_erp.props
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.juguetoys_erp.props
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\staticwebassets.build.json
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\staticwebassets.development.json
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\scopedcss\bundle\juguetoys_erp.styles.css
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\scopedcss\projectbundle\juguetoys_erp.bundle.scp.css
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.csproj.CopyComplete
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\refint\juguetoys_erp.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.pdb
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.genruntimeconfig.cache
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\ref\juguetoys_erp.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\X.PagedList.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\bin\Debug\net6.0\X.PagedList.Web.Common.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.staticwebassets.runtime.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.exe
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.deps.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.runtimeconfig.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\juguetoys_erp.pdb
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\X.PagedList.Web.Common.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.csproj.AssemblyReference.cache
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.AssemblyInfoInputs.cache
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.AssemblyInfo.cs
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.csproj.CoreCompileInputs.cache
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.RazorAssemblyInfo.cache
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.RazorAssemblyInfo.cs
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.sourcelink.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\staticwebassets\msbuild.juguetoys_erp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\staticwebassets\msbuild.build.juguetoys_erp.props
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.juguetoys_erp.props
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.juguetoys_erp.props
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\scopedcss\bundle\juguetoys_erp.styles.css
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\scopedcss\projectbundle\juguetoys_erp.bundle.scp.css
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.csproj.CopyComplete
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\refint\juguetoys_erp.dll
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.pdb
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.genruntimeconfig.cache
+C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\ref\juguetoys_erp.dll
