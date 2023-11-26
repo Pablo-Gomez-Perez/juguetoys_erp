@@ -30,6 +30,8 @@ namespace juguetoys_erp.Controllers
                 cliente = cliente.Where(c => c.FldNombre.Contains(searchString));
             }
 
+            ViewBag.TotalRows = cliente.Count();
+
             bool isAjax = HttpContext.Request.Headers["X-Requested-With"] == "XMLHttpRequest";
 
             if (isAjax)
@@ -52,25 +54,8 @@ namespace juguetoys_erp.Controllers
         // GET: PClienteController/Create
         public IActionResult Create(int IdCliente)
         {
-
-            ViewBag.IdCliente = IdCliente;
-
-            if(IdCliente == 0)
-            {
-                return PartialView();
-            }
-            else
-            {
-                IEnumerable<PCliente> cliente = new List<PCliente>();
-                cliente = _context.PClientes.ToList().Where(c => c.IdCliente == IdCliente);
-
-                if (cliente == null)
-                {
-                    return NotFound();
-                }
-
-                return PartialView(cliente.First());
-            }            
+            //ViewBag.IdCliente = IdCliente;                        
+            return PartialView();
         }
 
         // POST: PClienteController/Create
@@ -89,9 +74,19 @@ namespace juguetoys_erp.Controllers
         }
 
         // GET: PClienteController/Edit/5
-        public ActionResult Edit(int id)
+        public ActionResult Edit(int idCliente)
         {
-            return View();
+            IEnumerable<PCliente> cliente = new List<PCliente>();
+            cliente = _context.PClientes.ToList().Where(c => c.IdCliente == idCliente);
+
+            if (cliente == null)
+            {
+                return NotFound();
+            }
+
+            ViewBag.idCliente = idCliente;
+
+            return PartialView(cliente.First());
         }
 
         // POST: PClienteController/Edit/5

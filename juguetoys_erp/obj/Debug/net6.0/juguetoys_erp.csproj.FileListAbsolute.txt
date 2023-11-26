@@ -183,3 +183,4 @@ C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\refint
 C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.pdb
 C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.genruntimeconfig.cache
 C:\Users\Dell Latitude\Desktop\ProyectoABD\juguetoys_erp\obj\Debug\net6.0\ref\juguetoys_erp.dll
+C:\git programing projects\dotnet\juguetoys\juguetoys_erp\obj\Debug\net6.0\juguetoys_erp.sourcelink.json
