@@ -25,6 +25,24 @@ function modalLoad(id) {
 
 }
 
+function modalDelete(url) {
+    var vurl = url;
+    var loadingContent = '<div class="text-center"><span class="fa fa-spinner fa-spin fa-3x"></span> Cargando ...</div>';
+    $('#dialog-delete').modal('show');
+    $('#dialog-delete .modal-body').html(loadingContent);
+    $.ajax({
+        type: "GET",
+        url: vurl,
+        dataType: 'html',
+        success: function (res) {
+            $('#dialog-delete .modal-body').html(res);
+        },
+        error: function (request, status, error) {
+            console.log("ajax call went wrong:" + request.responseText);
+        }
+    });
+}
+
 function closeDialog() {
     $("#dialog-form").modal('hide');
 }

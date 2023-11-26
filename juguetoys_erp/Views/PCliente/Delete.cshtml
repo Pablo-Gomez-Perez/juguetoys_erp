@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model juguetoys_erp.Models.ViewModels.ClienteViewModel;
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="container-fluid">
+    <div class="row pb-3">
+        <div class="col-md-12 text-center">
+            <form class="mt-2" asp-action="DeletePost" asp-controller="PCliente"
+                  data-ajax="true"
+                  data-ajax-method="POST"
+                  data-ajax-failure="failed"
+                  data-ajax-complete="completed">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="IdCliente" />
+                <div id="ajaxresult"></div>
+
+                <div> <strong> @Model.FldNombre </strong> </div>
+
+                <div class="form-group mt-2">
+                    <input type="submit" value="Eliminar" class="btn btn-danger" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    completed = function (xhr) {
+        SweetAlertMessage(xhr.responseJSON[0]);
+    };
+
+    failed = function (xhr) {
+        alert(`Status: {xhr.status}, Status Text: {xhr.statusText}`);
+    };
+</script>

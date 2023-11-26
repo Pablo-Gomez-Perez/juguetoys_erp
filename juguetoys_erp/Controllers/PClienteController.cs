@@ -1,4 +1,5 @@
 ﻿using juguetoys_erp.Models;
+using juguetoys_erp.Models.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -61,23 +62,28 @@ namespace juguetoys_erp.Controllers
         // POST: PClienteController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<IActionResult> Create([Bind("FldNombre, FldTelefono, FldDireccion")] ClienteViewModel model)
         {
-            try
+            
+            var cliente = new PCliente
             {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+                FldNombre = model.FldNombre,
+                FldTelefono = model.FldTelefono,
+                FldDireccion = model.FldDireccion
+            };
+
+            this._context.PClientes.Add(cliente);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+
         }
 
         // GET: PClienteController/Edit/5
         public ActionResult Edit(int idCliente)
         {
             IEnumerable<PCliente> cliente = new List<PCliente>();
-            cliente = _context.PClientes.ToList().Where(c => c.IdCliente == idCliente);
+            cliente =  _context.PClientes.ToList().Where(c => c.IdCliente == idCliente);
 
             if (cliente == null)
             {
@@ -86,43 +92,69 @@ namespace juguetoys_erp.Controllers
 
             ViewBag.idCliente = idCliente;
 
-            return PartialView(cliente.First());
+            var clienteVw = new ClienteViewModel
+            {                
+                IdCliente = cliente.First().IdCliente,
+                FldNombre = cliente.First().FldNombre,
+                FldTelefono = cliente.First().FldTelefono,
+                FldDireccion = cliente.First().FldDireccion
+            };
+
+            return PartialView(clienteVw);
         }
 
-        // POST: PClienteController/Edit/5
+        // POST: PClienteController/Edit/
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<IActionResult> Edit([Bind("IdCliente, FldNombre, FldTelefono, FldDireccion")] ClienteViewModel model)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            
+
+            var cliente = await _context.PClientes.FindAsync(model.IdCliente);
+
+            if (cliente == null)
+                return NotFound();
+            
+            cliente.FldNombre = model.FldNombre;
+            cliente.FldTelefono = model.FldTelefono;
+            cliente.FldDireccion = model.FldDireccion;
+
+            _context.Update(cliente);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
         }
 
         // GET: PClienteController/Delete/5
-        public ActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int idCliente)
         {
-            return View();
+            var cliente = await _context.PClientes.FindAsync(idCliente);
+
+            if(cliente == null)
+                return NotFound();
+
+            var clienteVw = new ClienteViewModel
+            {
+                IdCliente = cliente.IdCliente,
+                FldNombre = cliente.FldNombre
+            };
+
+            return PartialView(clienteVw);
         }
 
         // POST: PClienteController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<ActionResult> DeletePost(int IdCliente)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var cliente = await _context.PClientes.FindAsync(IdCliente);
+            
+            if(cliente == null) return NotFound();
+
+            _context.PClientes.Remove(cliente);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
         }
     }
 }

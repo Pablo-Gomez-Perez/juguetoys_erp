@@ -31,10 +31,10 @@
                             <td>@item.FldTelefono</td>
                             <td>@item.FldDireccion</td>
                             <td>
-                                <a id="edit-@item.IdCliente" class="btn btn-sm btn-success" onclick="modalLoad('edit-@item.IdCliente')" data-url="@Url.Content("~/PCliente/Edit?IdCliente=" + @item.IdCliente)" data-title="Alta Cliente" data-toggle="tooltip" data-placement="top" title="Alta Cliente">
+                                <a id="edit-@item.IdCliente" class="btn btn-sm btn-success" onclick="modalLoad('edit-@item.IdCliente')" data-url="@Url.Content("~/PCliente/Edit?IdCliente="+@item.IdCliente)" data-title="Alta Cliente" data-toggle="tooltip" data-placement="top" title="Alta Cliente">
                                     <i class="fa fa-edit"></i>
                                 </a>
-                                <a id="delete-@item.IdCliente" class="btn btn-sm btn-danger">
+                                <a id="delete-@item.IdCliente" class="btn btn-sm btn-danger" onclick="modalDelete('@Url.Content("~/Pcliente/Delete?idCliente="+@item.IdCliente)')" data-title="Eliminar Cliente" data-toggle="tooltip" data-placement="top" title="Eliminar Cliente">
                                     <i class="fa fa-solid fa-trash-can"></i>
                                 </a>
                             </td>
