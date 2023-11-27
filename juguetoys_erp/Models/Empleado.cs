@@ -21,5 +21,7 @@ public partial class Empleado
 
     public virtual ICollection<Compra> Compras { get; set; } = new List<Compra>();
 
+    public virtual Role IdRolNavigation { get; set; } = null!;
+
     public virtual ICollection<Venta> Venta { get; set; } = new List<Venta>();
 }

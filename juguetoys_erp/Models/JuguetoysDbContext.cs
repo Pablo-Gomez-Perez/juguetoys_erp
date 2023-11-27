@@ -37,6 +37,10 @@ public partial class JuguetoysDbContext : DbContext
 
     public virtual DbSet<Venta> Ventas { get; set; }
 
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+        => optionsBuilder.UseSqlServer("Server = juguetoysDB.mssql.somee.com; DataBase = juguetoysDB; user id = Pablo-Gomez-Pere_SQLLogin_1; password = wlqrs4a8bj; Trusted_Connection = False; MultipleActiveResultSets = true; TrustServerCertificate = True");
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Compra>(entity =>
@@ -97,6 +101,11 @@ public partial class JuguetoysDbContext : DbContext
                 .IsUnicode(false)
                 .HasColumnName("fld_telefono");
             entity.Property(e => e.IdRol).HasColumnName("id_rol");
+
+            entity.HasOne(d => d.IdRolNavigation).WithMany(p => p.Empleados)
+                .HasForeignKey(d => d.IdRol)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_empleados_roles");
         });
 
         modelBuilder.Entity<PCliente>(entity =>

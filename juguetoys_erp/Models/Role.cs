@@ -11,5 +11,7 @@ public partial class Role
 
     public string FldDescripcion { get; set; } = null!;
 
+    public virtual ICollection<Empleado> Empleados { get; set; } = new List<Empleado>();
+
     public virtual ICollection<PermisosXRol> PermisosXRols { get; set; } = new List<PermisosXRol>();
 }

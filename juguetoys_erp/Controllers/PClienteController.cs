@@ -41,7 +41,7 @@ namespace juguetoys_erp.Controllers
             }
             else
             {
-                return PartialView(cliente.ToList().OrderByDescending(c => c.IdCliente).ToPagedList(pageNumber, 10));
+                return View(cliente.ToList().OrderByDescending(c => c.IdCliente).ToPagedList(pageNumber, 10));
             }
             
         }
